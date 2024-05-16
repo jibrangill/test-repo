@@ -12,4 +12,4 @@ def gcd(a, b):
     return a
 
 print(gcd(20, 8))
-#print(gcd(60, 96))
+print(gcd(60, 96))
