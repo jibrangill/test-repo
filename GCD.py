@@ -14,4 +14,3 @@ def gcd(a, b):
     return a, count
 result, iterations = gcd(200,12)
 print('GCD is: ', result, ' and loop ran ',iterations, ' times.')
-#print('GCD is: ', gcd(90, 96))
